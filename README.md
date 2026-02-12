@@ -44,7 +44,7 @@ Je travaille principalement avec **Cypress** pour automatiser des scénarios end
 
 ## 📂 Expérience Professionnelle
 
-### Junior QA Automation – Projets personnels | 2024 – Présent
+### Junior QA Automation –All TestConsulting | 2024 – Présent
 - Tests E2E sur applications web (Login, Product, Add to Cart) avec Cypress  
 - Analyse des échecs, reporting et suivi des bugs  
 - Mise en place d’un framework maintenable (POM)  
