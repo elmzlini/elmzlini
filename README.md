@@ -73,7 +73,7 @@ Je travaille principalement avec **Cypress** pour automatiser des scénarios end
 
 ## 🤝 Contact
 
-- 📧 Email : hatem@example.com  
+- 📧 Email : almezlinihatem@gmail.com 
 - 💻 GitHub : [hatem](https://github.com/hatem)  
 - LinkedIn : [hatem](https://linkedin.com/in/hatem)  
 
