@@ -1,82 +1,96 @@
-# 👋 Bonjour, je suis Hatem Almezlini
+# 👋 Hello! I’m Hatem Almezlini
 
-**Junior QA / QA Automation | IT Support | Test Fonctionnel**
+QA Functional Tester | QA Automation Engineer | IT Support Specialist  
 
-📍 Tunis, Tunisie | 💻 GitHub: [hatem](https://github.com/hatem) | LinkedIn: [hatem](https://linkedin.com/in/hatem)
-
----
-
-## 🔹 À propos de moi
-
-Je suis un Junior QA Automation avec un solide background en **IT Helpdesk**.  
-Mon expérience m’a permis de développer une approche **analytique et orientée qualité**, combinée à des compétences pratiques en **tests manuels et automatisés**.  
-
-Je travaille principalement avec **Cypress** pour automatiser des scénarios end-to-end sur des applications web, et j’ai une bonne maîtrise des environnements techniques grâce à mon expérience en IT Support.
+I am passionate about **software quality, automation testing, and building maintainable frameworks**.  
+This GitHub profile showcases my **projects, certifications, courses, and tutorials**.
 
 ---
 
-## 💻 Compétences Techniques
+## 🚀 My Projects
 
-- **QA / Testing** : Test Fonctionnel, Test Manuel, Test E2E, Cypress, Test Plan, Test Case, Reporting (Allure / Mochawesome)  
-- **Automatisation** : Page Object Model (POM), Custom Commands, Fixtures, API testing  
-- **Technologies** : JavaScript, Node.js, PostgreSQL, Python, PowerShell  
-- **Outils** : Jira, Azure DevOps, Git/GitHub, CI/CD (GitHub Actions), Microsoft 365, Odoo  
-- **Méthodologies** : Agile Scrum, Debugging, Bug Reporting, Maintenance des Tests  
+### Smart Stock Manager – QA Automation Framework
+End-to-End testing with Cypress covering authentication, user & product management, and stock workflows.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/elmzlini/smart-stock-manager-qa)
 
----
+### Helpdesk Automation System
+Automates ticket categorization, prioritization, and reporting using Python, PowerShell & Microsoft 365.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](#add-link)
 
-## 🛠️ Projets Principaux
+### Todo List Application
+Full-stack project with React, Node.js, and PostgreSQL.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](#add-link)
 
-### 1. Helpdesk Automation System
-- Automatisation de la **catégorisation et priorisation des tickets IT**  
-- Réduction des temps de réponse et amélioration de l’efficacité du support  
-- Technologies : Python, PowerShell, Odoo
-
-### 2. Todo Web App
-- Application React + Node.js avec **tests automatisés Cypress**  
-- Gestion des tâches CRUD avec Page Object Model pour une maintenance facile
-
-### 3. Gestion de Stock
-- Application web et desktop pour la **gestion des produits et inventaire**  
-- Tests automatisés et reporting détaillé pour valider les flux métiers
+### Stock Management App
+Desktop and web application for inventory management.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](#add-link)
 
 ---
 
-## 📂 Expérience Professionnelle
+## 📜 Certifications
 
-### Junior QA Automation –All TestConsulting | 2024 – Présent
-- Tests E2E sur applications web (Login, Product, Add to Cart) avec Cypress  
-- Analyse des échecs, reporting et suivi des bugs  
-- Mise en place d’un framework maintenable (POM)  
+[![ISTQB Foundation](https://img.shields.io/badge/ISTQB-Certified-green)](#add-link)  
+[![Cypress Automation Specialist](https://img.shields.io/badge/Cypress-Certified-green)](#add-link)  
+[![JavaScript Automation Course](https://img.shields.io/badge/JavaScript-Course-yellow)](#add-link)  
 
-### IT Helpdesk – Société BDO, Tunis | 2020 – 2023
-- Support utilisateurs sur Microsoft 365, Windows 8/10 et logiciels internes  
-- Gestion de tickets via Odoo et formation des collaborateurs  
-- Diagnostic et résolution rapide des incidents
+---
+## 📜 classes and learning
+-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/VTSZN5HM?sharingId=6D9B45EFEA0AF45E
+
+https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/AKBY6FW7?sharingId=6D9B45EFEA0AF45E
+
+https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/WVQTWGKN?sharingId=6D9B45EFEA0AF45E
+
+https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/J3HBMVHT?sharingId=6D9B45EFEA0AF45E
+
+https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/UA7CMFA3?sharingId=6D9B45EFEA0AF45E
+
+-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/HZ2UQ5K8?sharingId=6D9B45EFEA0AF45E
+
+-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/FQEH5VNX?sharingId=6D9B45EFEA0AF45E
+
+-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/HZ2CB6Q8?sharingId=6D9B45EFEA0AF45E
+
+-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/K53DS2FB?sharingId=6D9B45EFEA0AF45E
+
+-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/N7E3URGF?sharingId=6D9B45EFEA0AF45E
+
+-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/KTJPS9BH?sharingId=6D9B45EFEA0AF45E
+
+## 🎥 Featured Videos
+
+I share **QA demos, tutorials, and automation workflows**:  
+
+- **Product CRUD Automation with Cypress**  
+[![YouTube](https://img.shields.io/badge/Watch-Video-red)](#add-your-youtube-link)  
+
+- **Login & Authentication Testing**  
+[![YouTube](https://img.shields.io/badge/Watch-Video-red)](#add-your-youtube-link)  
+
+- **User Management Automation**  
+[![YouTube](https://img.shields.io/badge/Watch-Video-red)](#add-your-youtube-link)  
+
+[Full Channel](#add-your-youtube-link)
 
 ---
 
-## 🎓 Formation
+## 💻 Skills & Tools
 
-**BTS Automation et Informatique Industrielle** – [Nom de l’École], Tunisie | 2023  
-**Certifications ISTQB** – Testeur Logiciel (niveau Fondation) | 2024  
-
----
-
-## 🌱 Actuellement j’apprends
-
-- Approfondir mes compétences en **Cypress et frameworks QA avancés**  
-- CI/CD et intégration des tests automatisés dans GitHub Actions  
-- Veille technologique et bonnes pratiques QA  
+**Testing & Automation:** Cypress, Selenium, Manual Testing, Test Management  
+**Programming:** JavaScript, Python, PowerShell  
+**Web & Databases:** React, Node.js, PostgreSQL  
+**IT Support & Tools:** Microsoft 365, Windows, Odoo  
+**Methodologies:** Agile, POM (Page Object Model), CI/CD basics  
 
 ---
 
-## 🤝 Contact
+## 📈 Connect with Me
 
-- 📧 Email : almezlinihatem@gmail.com 
-- 💻 GitHub : [hatem](https://github.com/hatem)  
-- LinkedIn : [hatem](https://linkedin.com/in/hatem)  
+I am open to **QA Automation and Functional Testing opportunities**.  
+
+📧 Email: hatem.almezlini@example.com  
+🔗 LinkedIn: [Hatem Almezlini](#add-link)  
 
 ---
 
-> « L’apprentissage se fait en pratiquant et en améliorant continuellement. »  
+> “I build automation frameworks that are **scalable, maintainable, and professional**.”
