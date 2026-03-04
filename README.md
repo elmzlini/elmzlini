@@ -21,20 +21,33 @@ Automates ticket categorization, prioritization, and reporting using Python, Pow
 Full-stack project with React, Node.js, and PostgreSQL.  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](#add-link)
 
-### Stock Management App
-Desktop and web application for inventory management.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](#add-link)
 
 ---
+## 📜Education
+
+BTS in Automation and Industrial Computing
+Focus: Industrial systems, programming, electronics, databases
+
+Software Testing Training Program (6 months)
+
+ISTQB-based foundation
+
+Manual Testing
+
+Automation Testing with Cypress
+
+Agile methodology
 
 ## 📜 Certifications
 
-[![ISTQB Foundation](https://img.shields.io/badge/ISTQB-Certified-green)](#add-link)  
+[![ISTQB Foundation]([https://img.shields.io/badge/ISTQB-Certified-green)](#add-link](https://drive.google.com/file/d/1lDJ7eQp0KQgTsjdHUzEcMpUMGqpQPNQb/view?usp=sharing))  
 [![Cypress Automation Specialist](https://img.shields.io/badge/Cypress-Certified-green)](#add-link)  
 [![JavaScript Automation Course](https://img.shields.io/badge/JavaScript-Course-yellow)](#add-link)  
 
 ---
 ## 📜 classes and learning
+-https://testautomationu.applitools.com/certificate/?id=54713381
+
 -https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/VTSZN5HM?sharingId=6D9B45EFEA0AF45E
 
 https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/AKBY6FW7?sharingId=6D9B45EFEA0AF45E
@@ -79,7 +92,7 @@ I share **QA demos, tutorials, and automation workflows**:
 **Testing & Automation:** Cypress, Selenium, Manual Testing, Test Management  
 **Programming:** JavaScript, Python, PowerShell  
 **Web & Databases:** React, Node.js, PostgreSQL  
-**IT Support & Tools:** Microsoft 365, Windows, Odoo  
+**IT Support & Tools:** Microsoft 365, Windows, Azure, Active diractory  
 **Methodologies:** Agile, POM (Page Object Model), CI/CD basics  
 
 ---
