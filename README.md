@@ -75,15 +75,15 @@ https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/UA7
 I share **QA demos, tutorials, and automation workflows**:  
 
 - **Product CRUD Automation with Cypress**  
-(https://www.youtube.com/watch?v=ZmKA1NnTVRY))  
+https://www.youtube.com/watch?v=ZmKA1NnTVRY 
 
 - **Login & Authentication Testing**  
-[![YouTube]([https://img.shields.io/badge/Watch-Video-red)](#add-your-youtube-link](https://www.youtube.com/watch?v=i9lDW7hIRRE))  
+https://www.youtube.com/watch?v=i9lDW7hIRRE  
 
 - **User Management Automation**  
-[![YouTube]([https://img.shields.io/badge/Watch-Video-red)](#add-your-youtube-link](https://www.youtube.com/watch?v=IgLD48MREqc))  
+https://www.youtube.com/watch?v=IgLD48MREqc 
 
-[Full Channel](#add-your-youtube-link)
+[Full Channel]([#add-your-youtube-link](https://www.youtube.com/@elmezlinihatem7139))
 
 ---
 
