@@ -23,10 +23,13 @@ Full-stack project with React, Node.js, and PostgreSQL.
 
 
 ---
-## 📜Education
 
-BTS in Automation and Industrial Computing
-Focus: Industrial systems, programming, electronics, databases
+## 🎓 Education
+
+Higher National Diploma (HND) in Industrial Automation and Computer Systems  
+(BTS – Associate Degree Equivalent)
+
+Technical Baccalaureate – Technology & Engineering
 
 Software Testing Training Program (6 months)
 
@@ -36,7 +39,6 @@ Manual Testing
 
 Automation Testing with Cypress
 
-Agile methodology
 
 ## 📜 Certifications
 
