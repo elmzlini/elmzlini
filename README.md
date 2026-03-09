@@ -83,7 +83,7 @@ https://www.youtube.com/watch?v=i9lDW7hIRRE
 - **User Management Automation**  
 https://www.youtube.com/watch?v=IgLD48MREqc 
 
-[Full Channel]([#add-your-youtube-link](https://www.youtube.com/@elmezlinihatem7139))
+[Full Channel]((https://www.youtube.com/@elmezlinihatem7139))
 
 ---
 
@@ -101,8 +101,8 @@ https://www.youtube.com/watch?v=IgLD48MREqc
 
 I am open to **QA Automation and Functional Testing opportunities**.  
 
-📧 Email: hatem.almezlini@example.com  
-🔗 LinkedIn: [Hatem Almezlini](#add-link)  
+📧 Email: hatem.almezlini@gmail.com  
+🔗 LinkedIn: [Hatem Almezlini](www.linkedin.com/in/hatem-elmezlini-)  
 
 ---
 
