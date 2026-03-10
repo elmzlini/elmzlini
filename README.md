@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=i9lDW7hIRRE
 - **User Management Automation**  
 https://www.youtube.com/watch?v=IgLD48MREqc 
 
--Smoke test et E2E test 
+-Smoke test and E2E test 
 https://www.youtube.com/watch?v=ItWlVwxiWWk
 
 [Full Channel]((https://www.youtube.com/@elmezlinihatem7139))
