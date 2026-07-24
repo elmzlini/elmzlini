@@ -262,7 +262,7 @@ I am open to opportunities related to:
 
 
 📧 Email:
-hatem.almezlini@gmail.com
+almezlinihatem@gmail.com
 
 
 🔗 LinkedIn:
