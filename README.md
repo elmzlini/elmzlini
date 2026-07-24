@@ -1,115 +1,274 @@
-# 👋 Hello! I’m Hatem Almezlini
+# 👋 Hello, I'm Hatem Almezlini
 
-QA Functional Tester | QA Automation Engineer | IT Support Specialist  
+## QA Functional Tester | QA Automation Engineer | IT Support Specialist
 
-I am passionate about **software quality, automation testing, and building maintainable frameworks**.  
-This GitHub profile showcases my **projects, certifications, courses, and tutorials**.
-
----
-
-## 🚀 My Projects
-
-### Smart Stock Manager – QA Automation Framework
-End-to-End testing with Cypress covering authentication, user & product management, and stock workflows.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/elmzlini/smart-stock-manager-qa)
-
-### Helpdesk Automation System
-Automates ticket categorization, prioritization, and reporting using Python, PowerShell & Microsoft 365.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](#add-link)
-
-### Todo List Application
-Full-stack project with React, Node.js, and PostgreSQL.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](#add-link)
-
+![QA](https://img.shields.io/badge/QA-Software%20Testing-blue)
+![Cypress](https://img.shields.io/badge/Cypress-Test%20Automation-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![ISTQB](https://img.shields.io/badge/ISTQB-Certified-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
 ---
 
-## 🎓 Education
+## 🚀 About Me
 
-Higher National Diploma (HND) in Industrial Automation and Computer Systems  
-(BTS – Associate Degree Equivalent)
+I am a **QA Engineer passionate about software quality, test automation, and building maintainable testing frameworks**.
 
-Technical Baccalaureate – Technology & Engineering
+With a background in **IT Support and Industrial Automation**, I combine technical troubleshooting skills with software testing expertise to deliver reliable and efficient solutions.
 
-Software Testing Training Program (6 months)
+This GitHub profile showcases my:
 
-ISTQB-based foundation
+- 🧪 QA Automation projects
+- 🔍 Functional testing practices
+- ⚙️ Test frameworks
+- 💻 Development projects
+- 📚 Certifications and continuous learning journey
 
-Manual Testing
-
-Automation Testing with Cypress
-
-
-## 📜 Certifications
-
-- [![ISTQB Foundation](https://img.shields.io/badge/ISTQB-Foundation_Level_4.0-blue)](https://drive.google.com/file/d/1lDJ7eQp0KQgTsjdHUzEcMpUMGqpQPNQb/view?usp=sharing)
-
-- [![Cypress Automation Specialist](https://img.shields.io/badge/Cypress-Certified-green)](#add-link)
-
-- [![JavaScript Automation Course](https://img.shields.io/badge/JavaScript-Course-yellow)](#add-link)
 ---
-## 📜 classes and learning
--https://testautomationu.applitools.com/certificate/?id=54713381
 
--https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/VTSZN5HM?sharingId=6D9B45EFEA0AF45E
+# 🧪 QA Engineering Approach
 
-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/AKBY6FW7?sharingId=6D9B45EFEA0AF45E
+My testing approach includes:
 
-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/WVQTWGKN?sharingId=6D9B45EFEA0AF45E
+✅ Requirement analysis  
+✅ Test scenario design  
+✅ Functional testing  
+✅ Regression testing  
+✅ End-to-End testing  
+✅ API testing  
+✅ Defect reporting  
+✅ Test automation  
+✅ Agile testing practices  
 
-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/J3HBMVHT?sharingId=6D9B45EFEA0AF45E
+---
 
-https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/UA7CMFA3?sharingId=6D9B45EFEA0AF45E
+# 🚀 Featured Projects
 
--https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/HZ2UQ5K8?sharingId=6D9B45EFEA0AF45E
+## 📦 Smart Stock Manager – Cypress E2E Automation Framework
 
--https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/FQEH5VNX?sharingId=6D9B45EFEA0AF45E
+A complete automation framework for testing a stock management application.
 
--https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/HZ2CB6Q8?sharingId=6D9B45EFEA0AF45E
+### Covered scenarios:
 
--https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/K53DS2FB?sharingId=6D9B45EFEA0AF45E
+✅ User authentication  
+✅ Product management (CRUD)  
+✅ User management  
+✅ Stock workflows  
+✅ End-to-End testing  
+✅ Regression testing  
 
--https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/N7E3URGF?sharingId=6D9B45EFEA0AF45E
+### Technologies:
 
--https://learn.microsoft.com/api/achievements/share/en-us/hatemelmezlini-7548/KTJPS9BH?sharingId=6D9B45EFEA0AF45E
+- Cypress
+- JavaScript
+- Node.js
+- Page Object Model (POM)
+- Fixtures
+- Custom Commands
+- Test Reporting
 
-## 🎥 Featured Videos
+🔗 Repository:
+https://github.com/elmzlini/smart-stock-manager-qa
 
-I share **QA demos, tutorials, and automation workflows**:  
 
-- **Product CRUD Automation with Cypress**  
-https://www.youtube.com/watch?v=ZmKA1NnTVRY 
+---
 
-- **Login & Authentication Testing**  
-https://www.youtube.com/watch?v=i9lDW7hIRRE  
+## 🎫 Helpdesk Automation System
 
-- **User Management Automation**  
-https://www.youtube.com/watch?v=IgLD48MREqc 
+Automation solution designed to improve IT support workflows.
 
--Smoke test and E2E test 
+### Features:
+
+✅ Ticket categorization  
+✅ Priority management  
+✅ Automated reporting  
+✅ Microsoft 365 integration concepts  
+
+### Technologies:
+
+- Python
+- PowerShell
+- Microsoft 365
+- Automation scripting
+
+
+---
+
+## ✅ Todo List Application
+
+Full-stack web application developed to strengthen development and testing skills.
+
+### Technologies:
+
+- React
+- Node.js
+- PostgreSQL
+- REST API
+
+
+---
+
+# 🏗 Automation Framework Architecture
+
+My automation frameworks follow professional practices:
+📂 Test Automation Framework
+
+├── Tests
+├── Page Objects
+├── Fixtures
+├── Custom Commands
+├── Test Data
+├── Reports
+└── CI/CD Pipeline
+
+Main concepts:
+
+✔ Page Object Model (POM)  
+✔ Reusable components  
+✔ Maintainable test structure  
+✔ Test data management  
+✔ Automated reporting  
+✔ Continuous Integration basics  
+
+---
+
+# 📜 Certifications & Training
+
+## 🏆 ISTQB Foundation Level 4.0
+
+Software Testing Certification
+
+---
+
+## 📚 Test Automation University
+
+Completed training in:
+
+- Cypress Web Automation
+- JavaScript Testing
+- Automation Testing Practices
+
+
+---
+
+## ☁️ Microsoft Learning
+
+Completed Microsoft Learn modules:
+
+- Microsoft Azure Fundamentals
+- Microsoft 365 Fundamentals
+- Cloud Concepts
+- Security Fundamentals
+
+
+---
+
+# 🎥 QA Demonstrations & Tutorials
+
+I share practical demonstrations of QA automation:
+
+## Product CRUD Automation with Cypress
+
+https://www.youtube.com/watch?v=ZmKA1NnTVRY
+
+
+## Login & Authentication Testing
+
+https://www.youtube.com/watch?v=i9lDW7hIRRE
+
+
+## User Management Automation
+
+https://www.youtube.com/watch?v=IgLD48MREqc
+
+
+## Smoke Test & E2E Testing
+
 https://www.youtube.com/watch?v=ItWlVwxiWWk
 
-[Full Channel]((https://www.youtube.com/@elmezlinihatem7139))
+
+🎬 Full Channel:
+
+https://www.youtube.com/@elmezlinihatem7139
+
 
 ---
 
-## 💻 Skills & Tools
+# 💻 Skills & Tools
 
-**Testing & Automation:** Cypress, Selenium, Manual Testing, Test Management  
-**Programming:** JavaScript, Python, PowerShell  
-**Web & Databases:** React, Node.js, PostgreSQL  
-**IT Support & Tools:** Microsoft 365, Windows, Azure, Active diractory  
-**Methodologies:** Agile, POM (Page Object Model), CI/CD basics  
+## Testing & Automation
+
+- Cypress
+- Selenium WebDriver
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- API Testing
+- Test Management
+
+
+## Programming
+
+- JavaScript
+- Python
+- Java
+- PowerShell
+- SQL
+
+
+## Web Development
+
+- React
+- Node.js
+- PostgreSQL
+- REST APIs
+
+
+## IT Support
+
+- Microsoft 365
+- Windows Administration
+- Azure Fundamentals
+- Active Directory
+- Technical Troubleshooting
+
+
+## Methodologies
+
+- Agile / Scrum
+- SDLC
+- STLC
+- Page Object Model
+- CI/CD Concepts
+
 
 ---
 
-## 📈 Connect with Me
+# 📊 GitHub Statistics
 
-I am open to **QA Automation and Functional Testing opportunities**.  
+![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmzlini&show_icons=true)
 
-📧 Email: hatem.almezlini@gmail.com  
-🔗 LinkedIn: [Hatem Almezlini](www.linkedin.com/in/hatem-elmezlini-)  
 
 ---
 
-> “I build automation frameworks that are **scalable, maintainable, and professional**.”
+# 🤝 Let's Connect
+
+I am open to opportunities related to:
+
+- QA Automation Engineer
+- QA Functional Tester
+- Software Tester
+- Test Engineer
+
+
+📧 Email:
+hatem.almezlini@gmail.com
+
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/hatem-elmezlini/
+
+
+---
+
+> "I build automation frameworks that are scalable, maintainable, and focused on software quality."
