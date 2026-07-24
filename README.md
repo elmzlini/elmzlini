@@ -42,7 +42,7 @@ Automation Testing with Cypress
 
 ## 📜 Certifications
 
-[![ISTQB Foundation]([https://img.shields.io/badge/ISTQB-Certified-green)](#add-link](https://drive.google.com/file/d/1lDJ7eQp0KQgTsjdHUzEcMpUMGqpQPNQb/view?usp=sharing))  
+[![ISTQB Foundation]_(https://drive.google.com/file/d/1lDJ7eQp0KQgTsjdHUzEcMpUMGqpQPNQb/view?usp=sharing). 
 [![Cypress Automation Specialist](https://img.shields.io/badge/Cypress-Certified-green)](#add-link)  
 [![JavaScript Automation Course](https://img.shields.io/badge/JavaScript-Course-yellow)](#add-link)  
 
